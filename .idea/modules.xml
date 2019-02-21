@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../vip-concurrent/vip-concurrent.iml" filepath="$PROJECT_DIR$/../vip-concurrent/vip-concurrent.iml" />
+      <module fileurl="file://D:/java senior/（01）并发编程/01-2018.05.06-第一节课/vip-concurrent/vip-concurrent.iml" filepath="D:/java senior/（01）并发编程/01-2018.05.06-第一节课/vip-concurrent/vip-concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vip-jvm/vip-jvm.iml" filepath="$PROJECT_DIR$/../vip-jvm/vip-jvm.iml" />
+    </modules>
+  </component>
+</project>
